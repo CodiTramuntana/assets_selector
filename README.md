@@ -50,7 +50,7 @@ PaperCropper is Copyright © 2017 CodiTramuntana SL. It is free software, and ma
 
 # About CodiTramuntana
 
-![coditramuntana](http://www.coditramuntana.com/assets/ic_logo_medium.png)
+![CodiTramuntana's Logo](https://avatars0.githubusercontent.com/u/27996979?v=3&u=b0256e23ae7b2f237e3d1b5f2b2abdfe3092b24c&s=400)
 
 Maintained by [CodiTramuntana](http://www.coditramuntana.com).
 
